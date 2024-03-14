@@ -1,4 +1,4 @@
-package com.example.mobilogic_sample
+package com.example.mobilogic
 
 import io.flutter.embedding.android.FlutterActivity
 

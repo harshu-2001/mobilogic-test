@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mobilogic_sample/Screen/grid_screen.dart';
+import 'package:mobilogic/Screen/grid_screen.dart';
 
 void main() {
   runApp(const MyApp());

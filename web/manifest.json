@@ -1,6 +1,6 @@
 {
-    "name": "mobilogic_sample",
-    "short_name": "mobilogic_sample",
+    "name": "mobilogic",
+    "short_name": "mobilogic",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

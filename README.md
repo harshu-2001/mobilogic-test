@@ -1,4 +1,4 @@
-# mobilogic_sample
+# mobilogic
 
 A new Flutter project.
 
