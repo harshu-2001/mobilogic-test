@@ -62,6 +62,7 @@ class _GridScreenState extends State<GridScreen> {
     [0, 1], // right
     [1, 0], // down
     [-1, 1], // diagonal right up
+    [-1, -1], //diagonal left up
   ];
 
   bool searchDirection(String word, int startX, int startY, int dx, int dy) {
